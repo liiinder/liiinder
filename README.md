@@ -1,4 +1,4 @@
-# Kristoffer Linder <a href="https://www.linkedin.com/in/liiinder/"><img style="width: 1.5rem;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" /></a>
+# Kristoffer Linder <a href="https://www.linkedin.com/in/liiinder/"><img style="width: 0.75rem;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" /></a>
 
 A quick thinking problem solver currently studying **[.NET developement](https://www.iths.se/utbildningar/netutvecklare/)** at IT-Högskolan Göteborg. I first came into contact with programming in highschool where we get to try out Pascal, C++, HTML and more. Loved it from the start and after that I have been testing out lots of different stuff. I have finally realized this is something I want to work with.
 
