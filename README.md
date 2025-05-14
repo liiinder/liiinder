@@ -1,4 +1,4 @@
-# Kristoffer Linder <a href="https://www.linkedin.com/in/liiinder/"><img style="width: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" /></a>
+# Kristoffer Linder
 
 A quick thinking problem solver currently studying **[.NET developement](https://www.iths.se/utbildningar/netutvecklare/)** at IT-Högskolan Göteborg. I first came into contact with programming in highschool where we get to try out Pascal, C++, HTML and more. Loved it from the start and after that I have been testing out lots of different stuff. I have finally realized this is something I want to work with.
 
@@ -10,11 +10,13 @@ At the moment I'm working on summerize this Portfolio to make it look better and
 
 |Date|Project|Description|Skills|
 |--|--|--|--|
-|May 2025 |PixelPortalen|This was our big project, a group project consisting of 8 persons that got 6 weeks to develop a webshop from scratch. Created with Blazor as Frontend and an Backend API with ASP.NET MVC with an SQL server all hosted on Azure |[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,bootstrap,css,html,mysql,discord&perline=3)](https://skillicons.dev) ||
+|May 2025 | [PixelPortalen](https://github.com/liiinder/PixelPortalen)|This was our big group project, consisting of 8 persons that got 5 weeks to develop a webshop from scratch. Created with Blazor as Frontend and an Backend API with ASP.NET MVC with an SQL server all hosted on Azure |[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,bootstrap,css,html,mysql,discord&perline=3)](https://skillicons.dev) |
+|December 2025| [Bookstore Manager](https://github.com/liiinder/Bookstore_Relational_Database) |First assignment working with SQL, an admin tool for a fictional bookstore|[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,github,mysql&perline=2)](https://skillicons.dev)|
 |November 2024| [Quiz App](https://github.com/liiinder/Labb_03_Quiz_App) | An App created with WPF for creating and playing Quizzes. | [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,vscode,github&perline=2)](https://skillicons.dev) |
-|September 2024| Dungeon Crawler|Small Console game where you explore a dungeon|[![My Skills](https://skillicons.dev/icons?i=cs,vscode,github&perline=2)](https://skillicons.dev)|
----
+|September 2024| [Dungeon Crawler](https://github.com/liiinder/Labb_02_Dungeon_Crawler)|Console game where you explore a dungeon!|[![My Skills](https://skillicons.dev/icons?i=cs,vscode,github&perline=2)](https://skillicons.dev)|
 <!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+
+
 
 <div style="text-align: center;">
     <img alt="Visual Studio" style="margin-right: 0.75rem; width: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
